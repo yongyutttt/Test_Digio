@@ -1,5 +1,5 @@
-กรอกขนาดของตารางที่ต้องการเล่น
-![image](https://github.com/user-attachments/assets/722a510b-a9f6-480a-a445-7568771b112e)
+กรอกขนาดของตารางที่ต้องการเล่น ![image](https://github.com/user-attachments/assets/722a510b-a9f6-480a-a445-7568771b112e)
+
 
 ![image](https://github.com/user-attachments/assets/9de1f262-7566-454a-8584-acd5afb347af)
 คลิ๊กช่องที่ต้องการเลือก
