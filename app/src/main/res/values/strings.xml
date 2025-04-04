@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="game_over">Game Over</string>
+    <string name="history">History</string>
+    <string name="app_title">Tic Tac Toe</string>
+    <string name="restart">Restart</string>
+    <string name="close">Close</string>
+    <string name="winner">Winner: %1$s</string>
+    <string name="draw">Draw</string>
+</resources>
